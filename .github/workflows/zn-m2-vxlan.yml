@@ -31,6 +31,7 @@ env:
   UPLOAD_FIRMWARE: true
   UPLOAD_RELEASE: true
   TZ: Asia/Shanghai
+  DOWNLOAD_CHECK_CERTIFICATE: n
 
 jobs:
   build:
